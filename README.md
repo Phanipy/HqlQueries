@@ -1,4 +1,4 @@
-# HqlQueries
+# HqlQueries (Hibernate Query Language - Examples)
 This example helps to learn Hibernate Query Language (#HQL)
 
 
