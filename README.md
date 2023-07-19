@@ -1,5 +1,8 @@
 # HqlQueries
 This example helps to learn Hibernate Query Language (#HQL)
+
+
+
 Things to Do
 1. Create a database in MySQL as EmpDB and use it
 2. Then download the Project folder from the link
